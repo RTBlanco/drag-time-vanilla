@@ -5,7 +5,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
   state = {
     preStage: false,
-    stage: false
+    stage: false,
+    first: false,
+    second: false,
+    third: false,
+    go: false,
+    out: false
   }
 
   
